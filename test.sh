@@ -9,5 +9,3 @@ else
   echo "BAD: test fail"
   exit 1
 fi
-
-
